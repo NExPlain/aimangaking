@@ -111477,7 +111477,7 @@ return new A.wo(p,A.buD(new A.aZQ()),"Debrief.",new A.aZR(),r,o,new A.aZS(),B.a8
 $S:639}
 A.aZR.prototype={
 $1(a){var s=A.cc(a,B.j3,t.z).a,r=$.ang.h(0,s.gdX(s))
-return r==null?null:r.h(0,"task title")},
+return r==null?null:r.h(0,"app_name")},
 $S:640}
 A.aZS.prototype={
 $2(a,b){if(B.c.u(b,a)){A.bY("support  "+A.h(a))
@@ -134056,7 +134056,7 @@ $.rY=null
 $.zl=null
 $.a_r=A.a(["task","book_meeting_google","create_google_slides","send_gmail","gmail_auto_response","create_twitter","create_linkedin_update","create asana task","send_slack_message","upload_to_google_drive","create_github_issue","set_reminder","workday_pto"],t.s)
 $.ang=function(){var s="simplified chinese",r=t.N
-return A.E(["en",A.E(["character list","Character List","task title","Prompt terminal","page theme","Theme",s,"Simplified Chinese","add new","Add New","welcomes","China welcomes you","prompt terminal","Prompt Terminal"],r,r),"zh",A.E(["character list","\u5b57\u7b26\u5217\u8868","task title","\u63d0\u793a\u7ec8\u7aef","page theme","\u4e3b\u9898",s,"\u4e2d\u6587\u7b80\u4f53","add new","\u65b0\u589e","welcomes","\u4e2d\u56fd\u6b22\u8fce\u4f60","prompt terminal","Prompt\u64cd\u4f5c\u53f0"],r,r),"he",A.E(["task title","Ejemplo de Flutter","welcomes","Bienvenido a China"],r,r)],r,t.GU)}()
+return A.E(["en",A.E(["app_name","AI Manga King!!!","character list","Character List","task title","Prompt terminal","page theme","Theme",s,"Simplified Chinese","add new","Add New","welcomes","China welcomes you","prompt terminal","Prompt Terminal"],r,r),"zh",A.E(["app_name","AI\u6f2b\u753b\u738b\uff01\uff01","character list","\u5b57\u7b26\u5217\u8868","task title","\u63d0\u793a\u7ec8\u7aef","page theme","\u4e3b\u9898",s,"\u4e2d\u6587\u7b80\u4f53","add new","\u65b0\u589e","welcomes","\u4e2d\u56fd\u6b22\u8fce\u4f60","prompt terminal","Prompt\u64cd\u4f5c\u53f0"],r,r),"he",A.E(["task title","Ejemplo de Flutter","welcomes","Bienvenido a China"],r,r)],r,t.GU)}()
 $.bd2=null
 $.aGC=null
 $.bd_=null
