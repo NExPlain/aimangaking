@@ -36832,6 +36832,8 @@ if(l<j)i.n(0,m,q[l])}}k=B.d.c2(a,", ")
 k=(k.length!==0?k+", ":k)+p
 if(g.length!==0)i.n(0,"ar",g)
 if(d!=null&&d.length!==0)i.n(0,"iw",d)
+i.n(0,"niji","5")
+i.n(0,"style","scenic")
 if(e!=null&&e.length!==0)k+=" --no "+A.f(e)
 for(j=i.gek(i),j=j.gan(j);j.t();){l=j.gM(j)
 k+=" --"+A.f(l.gcr(l))+" "+A.f(l.gl(l))}return k},
