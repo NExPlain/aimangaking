@@ -120156,11 +120156,12 @@ J(){return new A.aeS(B.k)}}
 A.aeS.prototype={
 v(a){return A.tB(new A.b38(a),null,null,null,t.j)}}
 A.b38.prototype={
-$1(a){var s,r=null,q="assets/images/manga/terminal.svg",p=this.a,o=t.z,n=A.c6(p,B.eL,o).ga67(),m=a.ax,l=m.f,k=A.c6(p,B.eL,o).a,j=$.Y8.h(0,k.gdC(k))
-k=j==null?r:j.h(0,"prompt terminal")
-s=m.f
-o=A.c6(p,B.eL,o).ga2G()
-return A.d(B.ap,A.a6(A.a([new A.u3(l===2,"assets/images/manga/gallary.svg",n,new A.b34(),r),new A.u3(s===0,q,k,new A.b35(),r),new A.u3(s===3,q,"Create Manga",new A.b36(),r),new A.u3(m.f===1,"assets/images/intent_icons/svg/person_menu.svg",o,new A.b37(),r)],t.p),B.h,B.i,B.e,r,B.m),B.c,r,B.P0,r,r,r,r,B.ZG,r,r,r)},
+$1(a){var s,r=null,q="assets/images/manga/terminal.svg",p=this.a,o=t.z,n=A.c6(p,B.eL,o).ga67(),m=a.ax,l=m.f,k=A.c6(p,B.eL,o).ga2G(),j=m.f
+o=A.c6(p,B.eL,o).a
+s=$.Y8.h(0,o.gdC(o))
+p=s==null?r:s.h(0,"prompt terminal")
+m=m.f
+return A.d(B.ap,A.a6(A.a([new A.u3(l===2,"assets/images/manga/gallary.svg",n,new A.b34(),r),new A.u3(j===1,"assets/images/intent_icons/svg/person_menu.svg",k,new A.b35(),r),new A.u3(m===0,q,p,new A.b36(),r),new A.u3(m===3,q,"Create Manga",new A.b37(),r)],t.p),B.h,B.i,B.e,r,B.m),B.c,r,B.P0,r,r,r,r,B.ZG,r,r,r)},
 $S:260}
 A.b34.prototype={
 $0(){var s,r
@@ -120175,6 +120176,12 @@ s.ay.push(B.lp)
 J.vo(s)},
 $S:1}
 A.b35.prototype={
+$0(){$.aA()
+var s=$.ak
+if(s==null)s=$.ak=B.A
+s.bZ(0,null,t.j).a6j()},
+$S:1}
+A.b36.prototype={
 $0(){var s,r
 $.aA()
 s=$.ak
@@ -120186,14 +120193,8 @@ r.e=B.KF
 s.ay.push(B.KF)
 J.vo(s)},
 $S:1}
-A.b36.prototype={
-$0(){A.aiS("https://shared.d2ap3i06qhp1qv.amplifyapp.com/")},
-$S:1}
 A.b37.prototype={
-$0(){$.aA()
-var s=$.ak
-if(s==null)s=$.ak=B.A
-s.bZ(0,null,t.j).a6j()},
+$0(){A.aiS("https://shared.d2ap3i06qhp1qv.amplifyapp.com/")},
 $S:1}
 A.aL5.prototype={
 ai1(a){return A.fG(new A.aL6(this,a),!1)},
